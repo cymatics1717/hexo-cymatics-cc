@@ -23,7 +23,7 @@ permalink_defaults:
 lang: en
 
 # Directory
-source_dir: articles
+source_dir: ~/private/cymatics.cc
 public_dir: ~/public/cymatics.cc
 tag_dir: tags
 archive_dir: archives
