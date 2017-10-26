@@ -23,8 +23,8 @@ permalink_defaults:
 lang: en
 
 # Directory
-source_dir: /home/wayne/private/cymatics.cc
-public_dir: /home/wayne/public/cymatics.cc
+source_dir: source
+public_dir: sink
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
